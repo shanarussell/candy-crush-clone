@@ -1,0 +1,7 @@
+.score-board {
+  font-family: "Silkscreen", cursive;
+  font-size: x-large;
+  display: flex;
+  width: 560px;
+  justify-content: center;
+}
